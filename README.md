@@ -1,8 +1,8 @@
 # Devtools
-В репозитории находится 3 видео, на которых продемонстрированы навыки работы в DevTools
+***В репозитории находится 3 видео, на которых продемонстрированы навыки работы в DevTools.***
 
-## Панель Elements, использование Toggle device toolbar
-[Видео_1]()
+### Панель Elements, использование Toggle device toolbar
+[Видео_1](https://github.com/Bezgubenko-Elena/Devtools/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_1.zip)
 1. Открыть Chrome DevTools
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
@@ -17,9 +17,9 @@
  12. Перевести в ландшафтные режим.
  13. Выключить Device Mode
  
-## Панели Console, Source, Network, Application
-[Видео_2]()
-14. Открыть панель Console.
+### Панели Console, Source, Network, Application
+[Видео_2](https://github.com/Bezgubenko-Elena/Devtools/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_2.zip)
+1. Открыть панель Console.
  15. Найти 2 сообщения Error в логах
  16. Сохранить эти 2 сообщения лога как файл на компьютер.
  17. Найти 1 сообщение verbose
@@ -42,9 +42,9 @@
  34. Откройте вкладку LightHouse
  35. Нажмите Generate report
  
-## Работа со скриншотами и изменением локации
-[Видео_3]()
- 36. Установить в браузер бесплатный AdBlocker
+### Работа со скриншотами и изменением локации
+[Видео_3](https://github.com/Bezgubenko-Elena/Devtools/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_3.zip)
+16. Установить в браузер бесплатный AdBlocker
  37. Установить в браузер Json Viewer
  38. Зайти на сайт https://ksendzov.com (https://ksendzov.com/)
  39. Сделать и сохранить  скриншот видимой части страницы сайта.
