@@ -44,7 +44,7 @@
  
 ### Работа со скриншотами и изменением локации
 [Видео_3](https://github.com/Bezgubenko-Elena/Devtools/blob/main/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE_3.zip)
-16. Установить в браузер бесплатный AdBlocker
+1. Установить в браузер бесплатный AdBlocker
  37. Установить в браузер Json Viewer
  38. Зайти на сайт https://ksendzov.com (https://ksendzov.com/)
  39. Сделать и сохранить  скриншот видимой части страницы сайта.
